@@ -1,0 +1,95 @@
+﻿  AllocateHierarchy.cpp
+  BillBoard.cpp
+  camera.cpp
+  d3dUtility.cpp
+  input.cpp
+  D:\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+input.cpp(50): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+  MyFirst_Project.cpp
+c:\users\simon c\documents\visual studio 2015\projects\first_project\first_project\Sprite.h(121): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+c:\users\simon c\documents\visual studio 2015\projects\first_project\first_project\Sprite.h(122): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+c:\users\simon c\documents\visual studio 2015\projects\first_project\first_project\Sprite.h(128): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+c:\users\simon c\documents\visual studio 2015\projects\first_project\first_project\Sprite.h(129): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+  D:\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\simon c\documents\visual studio 2015\projects\first_project\first_project\Common.h(26): warning C4005: “KEYDOWN”: 宏重定义
+  c:\users\simon c\documents\visual studio 2015\projects\first_project\first_project\AllocateHierarchy.h(11): note: 参见“KEYDOWN”的前一个定义
+c:\users\simon c\documents\visual studio 2015\projects\first_project\first_project\Common.h(27): warning C4005: “KEYUP”: 宏重定义
+  c:\users\simon c\documents\visual studio 2015\projects\first_project\first_project\AllocateHierarchy.h(12): note: 参见“KEYUP”的前一个定义
+MyFirst_Project.cpp(102): warning C4305: “参数”: 从“double”到“float”截断
+MyFirst_Project.cpp(173): warning C4305: “参数”: 从“double”到“FLOAT”截断
+MyFirst_Project.cpp(216): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+MyFirst_Project.cpp(226): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+MyFirst_Project.cpp(235): warning C4244: “参数”: 从“LONG”转换到“FLOAT”，可能丢失数据
+MyFirst_Project.cpp(442): warning C4553: “==”: 运算符不起任何作用；是否是有意使用“=”的?
+MyFirst_Project.cpp(447): warning C4244: “参数”: 从“LONG”转换到“FLOAT”，可能丢失数据
+MyFirst_Project.cpp(481): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+MyFirst_Project.cpp(482): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+MyFirst_Project.cpp(575): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+MyFirst_Project.cpp(576): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+MyFirst_Project.cpp(594): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+MyFirst_Project.cpp(595): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+MyFirst_Project.cpp(597): warning C4305: “参数”: 从“double”到“FLOAT”截断
+MyFirst_Project.cpp(598): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+MyFirst_Project.cpp(610): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+MyFirst_Project.cpp(611): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+MyFirst_Project.cpp(613): warning C4305: “参数”: 从“double”到“FLOAT”截断
+MyFirst_Project.cpp(614): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+MyFirst_Project.cpp(626): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+MyFirst_Project.cpp(627): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+MyFirst_Project.cpp(629): warning C4305: “参数”: 从“double”到“FLOAT”截断
+MyFirst_Project.cpp(630): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+MyFirst_Project.cpp(318): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+MyFirst_Project.cpp(323): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+MyFirst_Project.cpp(328): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+MyFirst_Project.cpp(333): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+MyFirst_Project.cpp(759): warning C4305: “参数”: 从“double”到“float”截断
+MyFirst_Project.cpp(779): warning C4305: “参数”: 从“double”到“FLOAT”截断
+MyFirst_Project.cpp(783): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+MyFirst_Project.cpp(790): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+  Rain.cpp
+  RainParticle.cpp
+RainParticle.cpp(26): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+RainParticle.cpp(27): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+RainParticle.cpp(25): warning C4101: “temp2”: 未引用的局部变量
+RainParticle.cpp(86): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+RainParticle.cpp(87): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+RainParticle.cpp(85): warning C4101: “temp2”: 未引用的局部变量
+  SkinMesh.cpp
+  SkyBox.cpp
+  sound.cpp
+  Sprite.cpp
+c:\users\simon c\documents\visual studio 2015\projects\first_project\first_project\Sprite.h(121): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+c:\users\simon c\documents\visual studio 2015\projects\first_project\first_project\Sprite.h(122): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+c:\users\simon c\documents\visual studio 2015\projects\first_project\first_project\Sprite.h(128): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+c:\users\simon c\documents\visual studio 2015\projects\first_project\first_project\Sprite.h(129): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+Sprite.cpp(5): warning C4316: “CSkinMesh”: 在堆上分配的对象可能不是对齐 16
+Sprite.cpp(58): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+  terrain.cpp
+terrain.cpp(38): warning C4018: “<”: 有符号/无符号不匹配
+terrain.cpp(39): warning C4244: “*=”: 从“float”转换到“int”，可能丢失数据
+terrain.cpp(289): warning C4018: “<”: 有符号/无符号不匹配
+terrain.cpp(291): warning C4018: “<”: 有符号/无符号不匹配
+terrain.cpp(318): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+terrain.cpp(319): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+terrain.cpp(320): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+terrain.cpp(323): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+terrain.cpp(324): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+terrain.cpp(366): warning C4018: “<”: 有符号/无符号不匹配
+terrain.cpp(417): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+terrain.cpp(417): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+terrain.cpp(418): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+terrain.cpp(418): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+terrain.cpp(419): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+terrain.cpp(419): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+terrain.cpp(420): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+terrain.cpp(420): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+  正在生成代码
+  All 652 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  First_Project.vcxproj -> C:\Users\Simon c\documents\visual studio 2015\Projects\First_Project\Release\First_Project.exe
+  First_Project.vcxproj -> C:\Users\Simon c\documents\visual studio 2015\Projects\First_Project\Release\First_Project.pdb (Full PDB)
